@@ -1,6 +1,7 @@
 # Titre du Projet : Prédiction des Ventes en Fonction des Budgets Publicitaires
 
-## Description : Ce projet vise à prédire les ventes en fonction des budgets publicitaires alloués à trois médias : la télévision, la radio et la presse. L'objectif est de comprendre l'impact de chaque média sur les ventes et d'optimiser les budgets publicitaires pour maximiser les revenus.
+## Description : 
+Ce projet vise à prédire les ventes en fonction des budgets publicitaires alloués à trois médias : la télévision, la radio et la presse. L'objectif est de comprendre l'impact de chaque média sur les ventes et d'optimiser les budgets publicitaires pour maximiser les revenus.
 
 ## Technologies Utilisées :
 ### Langage : Python
@@ -9,12 +10,12 @@
 ### Outils : Jupyter Notebook
 
 ## Étapes du Projet :
-### Analyse Exploratoire des Données (EDA) : Visualisation des données, vérification des valeurs manquantes et des doublons, analyse des corrélations.
-### Préparation des Données : Séparation des caractéristiques (features) et de la cible (target), division des données en ensembles d'entraînement et de test, standardisation des données.
-### Construction des Modèles : Implémentation de la régression linéaire et du Random Forest.
-### Évaluation des Modèles : Comparaison des performances en utilisant les métriques R² et RMSE.
-### Interprétation des Résultats : Analyse des coefficients de la régression linéaire et de l'importance des caractéristiques dans le Random Forest.
-### Visualisation des Insights : Création de graphiques pour illustrer les relations entre les budgets publicitaires et les ventes, ainsi que les performances des modèles.
+* Analyse Exploratoire des Données (EDA) : Visualisation des données, vérification des valeurs manquantes et des doublons, analyse des corrélations.
+* Préparation des Données : Séparation des caractéristiques (features) et de la cible (target), division des données en ensembles d'entraînement et de test, standardisation des données.
+* Construction des Modèles : Implémentation de la régression linéaire et du Random Forest.
+* Évaluation des Modèles : Comparaison des performances en utilisant les métriques R² et RMSE.
+* Interprétation des Résultats : Analyse des coefficients de la régression linéaire et de l'importance des caractéristiques dans le Random Forest.
+* Visualisation des Insights : Création de graphiques pour illustrer les relations entre les budgets publicitaires et les ventes, ainsi que les performances des modèles.
 
 ## Résultats :
 * Le Random Forest est le modèle le plus performant avec un R² de 0.981 et un RMSE de 0.77.
